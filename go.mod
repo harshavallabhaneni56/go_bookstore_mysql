@@ -1,4 +1,4 @@
-module github.com/harshavallabhaneni.56/go_bookstore_mysql
+module github.com/harshavallabhaneni56/go-bookstore
 
 go 1.21.1
 
